@@ -1,5 +1,5 @@
 @import url(../style/normalize.css);
- @import url(../fonts/inter.css); /* нужно добавлять альтернативные шрифты, если 'Inter' не получилось найти (загрузить). */
+@import url(../fonts/inter.css);
 @import url(../blocks/page/page.css);
 
 @import url(../blocks/header/header.css);

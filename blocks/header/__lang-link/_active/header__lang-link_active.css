@@ -2,8 +2,3 @@
     text-decoration-line: underline;
     transition: text-decoration-line 0s linear;
 }
-
-/* .header__lang-link_active:focus{
-    text-decoration-line: underline;
-    transition: text-decoration-line 0s;
-} */
